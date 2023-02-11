@@ -1,5 +1,7 @@
 ﻿# Module-Federation
 
+tutorial: https://www.youtube.com/watch?v=UbEx1v26kCs&ab_channel=JackHerrington
+
 ```
 npx degit https://github.com/jherr/wp5-starter-react-ts.git ts-remote
 npx degit https://github.com/jherr/wp5-starter-react-ts.git ts-host
